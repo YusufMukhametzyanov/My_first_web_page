@@ -627,6 +627,20 @@ p {
         margin-right: 0;
         margin-left: 0;
     }
+    .button_1_menu {
+        width: 130px;
+        height: 350px;
+    }
+    .button_1_header_menu {
+        width: 130px;
+        height: 350px;
+    }
+    .header_menu_top, .header_menu_top_list1, .header_menu_top_list1__ {
+        font-size: 9px;
+    }
+    .header_menu_top_list1__ {
+        padding: 3px 0 0 33px;
+    }
     .body2_grid {
         grid-template-columns: repeat(1, 300px);
         grid-template-rows: repeat(3, 247px);
