@@ -624,8 +624,7 @@ p {
         width: 12px;
         height: 61px;
         background-color: #F16D7F;
-        margin-right: 0;
-        margin-left: 0;
+        margin-left: 15;
     }
     .body2_grid {
         grid-template-columns: repeat(1, 300px);
