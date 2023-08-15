@@ -681,7 +681,7 @@ p {
         width: 265px;
     }
     .body1_rectangle {
-        margin-right: 15px;
+        margin: 0 10px 0 9px;
     }
     .body1_paragraphs {
         width: 239px;
