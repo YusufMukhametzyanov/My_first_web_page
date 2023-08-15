@@ -675,7 +675,7 @@ p {
         width: none;
     }
     .content1__bottom {
-        padding: 0 0;
+        padding: 10px 0 0 10px;
     }
     .body1_text {
         width: 265px;
